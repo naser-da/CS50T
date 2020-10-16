@@ -1,0 +1,70 @@
+audio {
+    filter: sepia(20%) saturate(70%) grayscale(1) contrast(99%) invert(12%);
+    width: 200px;
+    height: 25px;
+}
+
+.block
+{
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    background-color: #9900ff;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+header
+{
+
+    color: teal;
+    font-size: xx-large;
+    align-content: center;
+    font-family: Roboto;
+    padding: 40px;
+    text-align: center;
+    
+}
+
+.title
+{
+    font-family: Roboto;
+    color: #ffffff;
+
+}
+
+footer
+{
+    font-family: Roboto;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #9900ffbb;
+    color: white;
+    text-align: center;
+}
+
+.right {
+    float: right;
+    width: 700px;
+    padding: 10px;
+  }
+
+.left
+{
+    font-family: Roboto;
+    font-size: 15px;
+    float: left;
+    width: 400px;
+    padding: 100px;
+}
+
+.center
+{
+    padding-top: 100px;
+
+}
